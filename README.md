@@ -4,8 +4,8 @@ So whenever any user wants to organize an event they can create an account or lo
 
 
 # Technology used :
-HTML 
-CSS 
-Javascript 
+- HTML 
+- CSS 
+- Javascript 
 
 ![2021-03-19 (2)](https://user-images.githubusercontent.com/72685035/111789176-defe5e80-88e6-11eb-9b05-cf27fe78ef40.png)
